@@ -1,5 +1,6 @@
 Data/*
 Data_new/*
 Data_project_gutenberg/*
-.aiexclude
-.geminiignore
+Data_project_gutenberg*
+Data*
+./Data*
