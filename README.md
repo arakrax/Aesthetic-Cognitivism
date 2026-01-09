@@ -18,9 +18,9 @@ The primary goal of this project is to extract meaningful information and patter
 
 
 
-### Artist Identification:
+### Pre processing pipeline:
 
-To implement and evaluate methods for automatically identifying the artist being critiqued within each text.
+Creating a robust pre processing pipeline to clean the data from unwanted charactes (OCR) and misspellings while minimising the risk of affecting the text content.
 
 **Author:** Andreas Larsson(andreas.larsson.4026@student.uu.se)
 
