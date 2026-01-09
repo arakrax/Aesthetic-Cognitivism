@@ -1,6 +1,18 @@
 # Temporal Analysis of Art Criticism
 
+## Author
+
+**Xinyu Meng** ([XinyuM1998@gmail.com](mailto:XinyuM1998@gmail.com), MSc Data Science, Uppsala University)
+
+## Supervisor
+
+**Adam Maen**([adam.maen@abm.uu.se](mailto:adam.maen@abm.uu.se), Department of ALM, Uppsala University)
+
+
+
 This project explores **how the language and thematic focus of arts criticism evolve over time**, using a large historical corpus of OCR-scanned arts reviews.
+
+**For details, please see dsProject/aesthetic/notebook/TemporalAnalysis.ipynb.**
 
 ---
 
@@ -23,8 +35,6 @@ available).
 
 ## Project Structure
 
-
-
 .
 
 ├── data/
@@ -41,11 +51,11 @@ available).
 
 │   ├── notebook/
 
-│                ├── BERTopic.ipynb            #intermediate files for testing)
+│                ├── BERTopic.ipynb            #intermediate files for testing
 
-│                ├── data_analysis.ipynb            #intermediate files for testing)
+│                ├── data_analysis.ipynb            #intermediate files for testing
 
-│                ├── TemporalAnalysis.ipynb            #final file)
+│                ├── TemporalAnalysis.ipynb            #final file
 
 │   ├── src/
 
@@ -57,17 +67,4 @@ available).
 
 └── README.md
 
-
-
-
-
-**For details, please see TemporalAnalysis.ipynb.**
-
 ---
-
-## Author
-
-**Xinyu Meng**  
-
-XinyuM1998@gmail.com
-MSc Data Science, Uppsala University
