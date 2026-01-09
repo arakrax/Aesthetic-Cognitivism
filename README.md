@@ -18,7 +18,7 @@ The primary goal of this project is to extract meaningful information and patter
 
 
 
-### Pre processing pipeline:
+### Pre Processing Pipeline:
 
 Creating a robust pre processing pipeline to clean the data from unwanted charactes (OCR) and misspellings while minimising the risk of affecting the text content.
 
